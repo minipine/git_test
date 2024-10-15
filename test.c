@@ -1,5 +1,5 @@
 int main(void)
 {
-	printf("test__\n");
+	printf("test_12\n");
 	return (0);
 }
